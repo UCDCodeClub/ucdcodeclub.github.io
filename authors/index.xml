@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | UCD_CodeClub</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/Logo.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;UCD_CodeClub is a peer-led support group with the goal of helping UCD PhD students learn the necessary bioinformatics skills to carry out their research in a friendly, supportive environment. We are currently focusing on R, following the &lt;a href=&#34;https://r4ds.had.co.nz/&#34; title=&#34;See book&#34; target=&#34;_blank&#34;&gt;&amp;lsquo;R for Data Science&amp;rsquo;&lt;/a&gt; book by Garrett Grolemund and Hadley Wickham. Join the &lt;a href=&#34;http://bit.ly/join_CC&#34; target=&#34;_blank&#34;&gt;mailing list&lt;/a&gt; or &lt;a href=&#34;https://twitter.com/UCD_CodeClub&#34; title=&#34;@UCD_CodeClub&#34; target=&#34;_blank&#34;&gt;follow&lt;/a&gt; for updates.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
